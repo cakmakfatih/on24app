@@ -1,0 +1,15 @@
+{
+  "name": "on24-extractor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "ffmpeg": "^0.0.4",
+    "playwright": "^1.15.0",
+    "xml2js": "^0.4.23"
+  }
+}
